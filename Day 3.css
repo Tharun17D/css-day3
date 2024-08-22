@@ -1,0 +1,63 @@
+body{
+    
+    background-image: url(../HTML/Dhoni.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+   
+}
+.child1{
+    font-size: 20px;
+    font-family: cursive;
+    background-color: rgb(172, 235, 26);
+    font-weight: 800;
+    font-style: oblique;
+    word-spacing: 5px;
+}
+#child2 p{
+    margin: 0;
+    text-align: right;
+}
+#child2 p span{ 
+    font-size: larger;
+    text-transform: capitalize;
+    text-shadow: 2px 3px 5px whitesmoke;
+    background-color: blue;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: coral;
+
+}
+.child3{
+    text-decoration-line: overline;
+    text-shadow: 3px 3px 7px rgb(226, 19, 50) ;
+    text-align: justify;
+    text-decoration-color: coral;
+    text-transform: capitalize;
+    color: rgb(165, 42, 134);
+
+    
+}
+.child4{
+box-shadow: 3px 5px 7px whitesmoke;
+border: 5px;
+}
+.d2{
+    width: 300px;
+    text-align: justify;
+    background-color: darkgrey;
+    letter-spacing: 1px;
+    text-wrap: 30px;
+    box-shadow: 3px 3px 5px white;
+    background:linear-gradient( to top right, orange, white, purple, green)
+}
+.d1{
+    
+    
+    object-fit: contain;
+    border: 3px blue;
+    box-shadow: 3px 3px 5px rgb(196, 23, 170) ;
+    width: 350px;
+    height: 200px;
+}
